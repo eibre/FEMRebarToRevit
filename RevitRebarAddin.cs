@@ -12,7 +12,7 @@ using Autodesk.Revit.UI.Selection;
 using Autodesk.Revit.ApplicationServices;
 using Autodesk.Revit.Attributes;
 
-namespace XMLRebarReader
+namespace FEMRebarToRevit
 {
     //Set the attributes
     [TransactionAttribute(TransactionMode.Manual)]

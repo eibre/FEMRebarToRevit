@@ -7,7 +7,7 @@ using System.Xml.Linq;
 using System.IO;
 using System.Windows.Forms;
 
-namespace XMLRebarReader
+namespace FEMRebarToRevit
 {
     class ReadRebarFromXML
     {

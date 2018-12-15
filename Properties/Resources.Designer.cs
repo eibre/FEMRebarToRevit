@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace XMLRebarReader.Properties {
+namespace FEMRebarToRevit.Properties {
     using System;
     
     
