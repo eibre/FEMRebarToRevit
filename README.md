@@ -6,10 +6,8 @@ You need the [StruSoft Revit Add-in](https://strusoft.com/products/fem-design/re
 
 ## User guide
 * Export a structure from Revit to a struXML-file (using the add-in from StruSoft).
+* Save the Revit file to save the FEM-Design guid in the Revit element.
 * Open the struXML-file in FEM Design, analyze and add rebars.
-* Save the structure as struXML
-* Start FEMRebarToRevit and select the struXML file.
+* Save the FEM-Design model as struXML
+* Start FEMRebarToRevit and select the struXML file. (Add-ins > External Tools)
 * The rebars are now created in Revit!
-
-## Known limitations
-* Rebar cover is not copied correctly
